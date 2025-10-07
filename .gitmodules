@@ -1,0 +1,3 @@
+[submodule "MiniTodoApp-TestAutomation"]
+	path = MiniTodoApp-TestAutomation
+	url = https://github.com/HuongTu/MiniTodoApp-TestAutomation.git
